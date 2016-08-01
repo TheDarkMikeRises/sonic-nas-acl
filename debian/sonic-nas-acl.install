@@ -1,0 +1,4 @@
+usr/bin/*
+etc/sonic/*.xml
+usr/lib/*/sonic/*.py
+lib/systemd/*
