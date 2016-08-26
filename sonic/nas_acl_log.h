@@ -19,8 +19,6 @@
 /*!
  * \file   nas_acl_common.h
  * \brief  NAS ACL Common macros and typedefs
- * \date   02-2015
- * \author Mukesh MV & Ravikumar Sivasankar
  */
 
 #ifndef _NAS_ACL_LOG_H_

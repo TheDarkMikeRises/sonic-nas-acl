@@ -19,7 +19,6 @@
 /*!
  * \file   nas_acl_switch.h
  * \brief  NAS ACL Switch Object
- * \date   02-2015
  */
 
 #ifndef _NAS_ACL_SWITCH_H_

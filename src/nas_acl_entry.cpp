@@ -19,7 +19,6 @@
 /*!
  * \file   nas_acl_entry.cpp
  * \brief  NAS ACL Entry Class implementation
- * \date   02-2015
  */
 
 #include "dell-base-acl.h"

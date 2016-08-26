@@ -19,7 +19,6 @@
 /*!
  * \file   nas_acl_filter.h
  * \brief  NAS ACL Filter Match Field Class Definition
- * \date   04-2015
  */
 
 #ifndef _NAS_ACL_FILTER_H_

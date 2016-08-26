@@ -19,7 +19,6 @@
 /*!
  * \file   nas_acl_init.h
  * \brief  Exported header files
- * \date   05-2014
  */
 #ifndef __NAS_ACL_INIT_H__
 #define __NAS_ACL_INIT_H__

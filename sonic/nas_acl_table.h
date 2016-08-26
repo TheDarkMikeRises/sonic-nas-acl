@@ -19,7 +19,6 @@
 /*!
  * \file   nas_acl_table.h
  * \brief  NAS ACL Table object
- * \date   02-2015
  */
 
 #ifndef _NAS_ACL_TABLE_H_

@@ -19,8 +19,6 @@
 /*!
  * \file   nas_acl_cps.cpp
  * \brief  This file contains CPS related functionality
- * \date   03-2015
- * \author Mukesh MV & Ravikumar Sivasankar
  */
 #include "event_log.h"
 #include "std_error_codes.h"

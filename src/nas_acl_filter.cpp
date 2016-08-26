@@ -19,7 +19,6 @@
 /*!
  * \file   nas_acl_filter.cpp
  * \brief  NAS ACL Filter Match Field implementation
- * \date   04-2015
  */
 
 #include "std_ip_utils.h"

@@ -19,7 +19,6 @@
 /*!
  * \file   nas_acl_init.cpp
  * \brief  NAS ACL Entry Point
- * \date   02-2015
  */
 #include "cps_api_events.h"
 #include "cps_api_operation.h"

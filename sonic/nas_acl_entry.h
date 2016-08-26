@@ -19,7 +19,6 @@
 /*!
  * \file   nas_acl_entry.h
  * \brief  NAS ACL Entry Class Definition
- * \date   02-2015
  */
 
 #ifndef _NAS_ACL_ENTRY_H_

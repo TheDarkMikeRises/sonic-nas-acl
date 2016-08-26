@@ -19,8 +19,6 @@
 /*!
  * \file   nas_acl_cps_entry.cpp
  * \brief  This file contains CPS related utility functions
- * \date   05-2015
- * \author Mukesh MV & Ravikumar Sivasankar
  */
 
 #include "event_log.h"

@@ -19,7 +19,6 @@
 /*!
  * \file   nas_acl_action.cpp
  * \brief  NAS ACL Action entry Class implementation
- * \date   04-2015
  */
 
 #include "std_ip_utils.h"
