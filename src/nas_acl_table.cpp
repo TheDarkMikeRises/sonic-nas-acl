@@ -19,7 +19,6 @@
 /*!
  * \file   nas_acl_table.cpp
  * \brief  NAS ACL Table Object
- * \date   02-2015
  */
 
 #include "nas_acl_table.h"

@@ -19,7 +19,6 @@
 /*!
  * \file   nas_acl_action.h
  * \brief  NAS ACL Action entry Class Definition
- * \date   04-2015
  */
 
 #ifndef _NAS_ACL_ACTION_H_

@@ -19,7 +19,6 @@
 /*!
  * \file   nas_acl_cps_counter.cpp
  * \brief  This file contains CPS related ACL Counter functionality
- * \date   03-2015
  */
 #include "event_log.h"
 #include "std_error_codes.h"

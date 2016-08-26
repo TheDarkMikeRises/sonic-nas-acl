@@ -19,8 +19,6 @@
 /*!
  * \file   nas_acl_cps_entry.cpp
  * \brief  This file contains CPS related ACL Entry Action functionality
- * \date   03-2015
- * \author Mukesh MV & Ravikumar Sivasankar
  */
 
 #include "event_log.h"

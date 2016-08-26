@@ -19,8 +19,6 @@
 /*!
  * \file   nas_acl_cps_action_map.cpp
  * \brief  This file contains ACL Entry Action Map table initiazation
- * \date   05-2015
- * \author Mukesh MV & Ravikumar Sivasankar
  */
 #include "nas_acl_cps.h"
 #include "nas_vlan_consts.h"

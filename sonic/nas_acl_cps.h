@@ -19,8 +19,6 @@
 /*!
  * \file   nas_acl_cps.h
  * \brief  NAS ACL CPS API prototypes
- * \date   02-2015
- * \author Mukesh MV & Ravikumar Sivasankar
  */
 
 #ifndef _NAS_ACL_CPS_H_

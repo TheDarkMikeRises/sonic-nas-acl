@@ -20,8 +20,6 @@
 /*!
  * \file   nas_acl_common.h
  * \brief  NAS ACL header file definitions common to all nas acl files
- * \date   05-2016
- * \author Mukesh MV & Ravikumar Sivasankar
  */
 
 #ifndef _NAS_ACL_COMMON_H_

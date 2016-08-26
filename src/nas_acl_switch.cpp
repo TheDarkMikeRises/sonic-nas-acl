@@ -19,7 +19,6 @@
 /*!
  * \file   nas_acl_switch.cpp
  * \brief  NAS ACL Switch Object
- * \date   02-2015
  */
 
 #include "nas_base_utils.h"
