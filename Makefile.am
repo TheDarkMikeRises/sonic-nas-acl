@@ -14,7 +14,7 @@ libsonic_nas_acl_la_SOURCES=src/nas_acl_init.cpp src/nas_acl_table.cpp src/nas_a
 libsonic_nas_acl_la_CPPFLAGS= -D_FILE_OFFSET_BITS=64 -I$(top_srcdir)/sonic -I$(includedir)/sonic -I$(top_srcdir)/inc
 libsonic_nas_acl_la_CXXFLAGS=-std=c++11
 libsonic_nas_acl_la_LDFLAGS=-shared -version-info 1:1:0
-libsonic_nas_acl_la_LIBADD=-lsonic_common -lsonic_nas_common -lsonic_nas_ndi -lsonic_object_library -lsonic_cps_class_map -lsonic_logging
+libsonic_nas_acl_la_LIBADD=-lsonic_common -lsonic_nas_common -lsonic_nas_ndi -lsonic_object_library -lsonic_logging
 
 systemdconfdir=/lib/systemd/system
 systemdconf_DATA = scripts/init/*.service
